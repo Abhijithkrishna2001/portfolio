@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/abhijith-krishna-2b6b7b309/",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/abhijithkrishan2001",
+      href: "https://github.com/Abhijithkrishna2001",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:abhi@gmail.com",
+      href: "mailto:abhijithkrishna644@gmail.com",
     },
     {
       id: 4,
